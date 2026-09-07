@@ -1,6 +1,6 @@
 # Command Injection Example
 
-A simple Python example demonstrating a **Command Injection** vulnerability caused by unsafe user input handling.
+A simple Python code example demonstrating a **Command Injection** vulnerability caused by unsafe user input handling.
 
 ## Vulnerability
 
