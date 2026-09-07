@@ -1,8 +1,8 @@
-# Command Injection Example
+# Command Injection Code
 
-A simple Python code example demonstrating a **Command Injection** vulnerability caused by unsafe user input handling.
+A simple Python code example demonstrating **Command Injection** and other insecure coding practices.
 
-## Vulnerability
+## Security Issues
 
 * Command Injection through `os.system()`
 * Hardcoded credentials
@@ -10,4 +10,4 @@ A simple Python code example demonstrating a **Command Injection** vulnerability
 
 ## Purpose
 
-This example demonstrates how insecure command execution can introduce security vulnerabilities.
+This example demonstrates how insecure coding practices can introduce security vulnerabilities.
